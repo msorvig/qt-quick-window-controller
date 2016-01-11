@@ -1,0 +1,6 @@
+
+<RCC>
+    <qresource prefix="/com/github/msorvig/windowcontrolleritem">
+        <file>qmldir</file>
+    </qresource>
+</RCC>

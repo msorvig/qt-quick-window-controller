@@ -1,0 +1,22 @@
+{
+  "name": "com.github.msorvig.windowcontrolleritem",
+  "description": "A Qt Quick Item for controlling QWindows",
+  "author": {
+    "name": "Morten Johan Sørvig",
+    "email": "msorvig@gmail.com"
+  },
+  "repository": {
+    "type": "GITHUB",
+    "url": ""
+  },
+  "version": {
+    "label": "0.0.1",
+    "revision": "",
+    "fingerprint": ""
+  },
+  "dependencies": [
+  ],
+  "license": "MIT",
+  "pri_filename": "com_github_msorvig_windowcontrolleritem.pri",
+  "webpage": ""
+}

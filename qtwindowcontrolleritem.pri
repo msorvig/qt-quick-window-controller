@@ -1,0 +1,1 @@
+include (com_github_msorvig_windowcontrolleritem.pri)
