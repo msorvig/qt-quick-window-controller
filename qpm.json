@@ -7,11 +7,11 @@
   },
   "repository": {
     "type": "GITHUB",
-    "url": ""
+    "url": "github.com/msorvig/qt-quick-window-controller"
   },
   "version": {
     "label": "0.0.1",
-    "revision": "",
+    "revision": "5e795acc09ce14cf94d7dc24053d2ef62959919c",
     "fingerprint": ""
   },
   "dependencies": [
